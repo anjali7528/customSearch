@@ -1,0 +1,9 @@
+.input {
+  height: 100%;
+  outline: none;
+  border: none;
+  width: 100%;
+}
+.inputContainer {
+  flex: 1;
+}
